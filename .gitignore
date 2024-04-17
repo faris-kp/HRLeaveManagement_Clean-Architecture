@@ -361,6 +361,8 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+/Optimization/language/languageUpdate.php
+/email_test.php
 # Visual Studio History (VSHistory) files
 .vshistory/
 
